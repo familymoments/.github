@@ -23,6 +23,7 @@
 </br>
 
 ## 🗂️ ERD
+![ERD](https://github.com/user-attachments/assets/91b64eac-ad84-4830-818a-1b1c8d7ebd7d)
 
 </br>
 
