@@ -55,3 +55,15 @@
 </br>
 
 ## 👥 팀원 소개
+
+| 김민정  |  손승현  | 이하진  |  정유영    |  한서영    |
+| ----| -------| ---- | ------- | ------ |
+| <img width="200px" src="https://avatars.githubusercontent.com/serak0310" /> | <img width="200px" src="https://avatars.githubusercontent.com/sonshn" />  | <img width="200px" src="https://avatars.githubusercontent.com/Hajin-Lee0406" /> | <img width="200px" src="https://avatars.githubusercontent.com/spacewalk00" />  |  <img width="200px" src="https://avatars.githubusercontent.com/zzo3ozz" /> |
+| Backend | Backend | Backend  | Backend | Backend, DevOps |
+| [serak0310](https://github.com/serak0310) | [sonshn](https://github.com/sonshn) | [Hajin-Lee0406](https://github.com/Hajin-Lee0406) | [spacewalk00](https://github.com/spacewalk00) | [zzo3ozz](https://github.com/zzo3ozz) |
+
+| 김예원   |  우혜경   | 진강민 |
+| -------| ---------| ----- | 
+| <img width="200px" src="https://avatars.githubusercontent.com/yewon-yw" /> | <img width="200px" src="https://avatars.githubusercontent.com/whk06061" /> | <img width="200px" src="https://avatars.githubusercontent.com/boring-km" />  |  
+| Android  | Android | Android  |
+| [yewon-yw](https://github.com/yewon-yw) | [whk06061](https://github.com/whk06061)  | [boring-km](https://github.com/boring-km) |
