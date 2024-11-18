@@ -19,10 +19,12 @@
 </br>
 
 ## 🌟 주요 기능 및 화면
-
-</br>
-
-## 🗂️ ERD
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7c410f5a-8de7-40a5-baa1-8a0d10ca8b94" width="170" height="400"/>
+<img src="https://github.com/user-attachments/assets/d64cd2f8-496b-4abd-ac85-8627cf87ff80" width="170" height="400"/>
+<img src="https://github.com/user-attachments/assets/f5d3a182-1d95-471a-a336-daa658fe23aa" width="170" height="400"/>
+<img src="https://github.com/user-attachments/assets/a54a29d1-96a7-4890-998c-3c8e731de4f4" width="170" height="400"/>
+</p>
 
 </br>
 
@@ -49,7 +51,20 @@
 </br>
 
 ## ⚙️ 서비스 아키텍처
+![Service Architecture](https://github.com/user-attachments/assets/6c942e91-3a1b-4609-9942-08d8b891b288)
 
 </br>
 
 ## 👥 팀원 소개
+
+| 김민정  |  손승현  | 이하진  |  정유영    |  한서영    |
+| ----| -------| ---- | ------- | ------ |
+| <img width="200px" src="https://avatars.githubusercontent.com/serak0310" /> | <img width="200px" src="https://avatars.githubusercontent.com/sonshn" />  | <img width="200px" src="https://avatars.githubusercontent.com/Hajin-Lee0406" /> | <img width="200px" src="https://avatars.githubusercontent.com/spacewalk00" />  |  <img width="200px" src="https://avatars.githubusercontent.com/zzo3ozz" /> |
+| Backend | Backend | Backend  | Backend | Backend, DevOps |
+| [serak0310](https://github.com/serak0310) | [sonshn](https://github.com/sonshn) | [Hajin-Lee0406](https://github.com/Hajin-Lee0406) | [spacewalk00](https://github.com/spacewalk00) | [zzo3ozz](https://github.com/zzo3ozz) |
+
+| 김예원   |  우혜경   | 진강민 |
+| -------| ---------| ----- | 
+| <img width="200px" src="https://avatars.githubusercontent.com/yewon-yw" /> | <img width="200px" src="https://avatars.githubusercontent.com/whk06061" /> | <img width="200px" src="https://avatars.githubusercontent.com/boring-km" />  |  
+| Android  | Android | Android  |
+| [yewon-yw](https://github.com/yewon-yw) | [whk06061](https://github.com/whk06061)  | [boring-km](https://github.com/boring-km) |
