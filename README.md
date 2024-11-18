@@ -19,11 +19,12 @@
 </br>
 
 ## 🌟 주요 기능 및 화면
-
-</br>
-
-## 🗂️ ERD
-![ERD](https://github.com/user-attachments/assets/91b64eac-ad84-4830-818a-1b1c8d7ebd7d)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7c410f5a-8de7-40a5-baa1-8a0d10ca8b94" width="170" height="400"/>
+<img src="https://github.com/user-attachments/assets/d64cd2f8-496b-4abd-ac85-8627cf87ff80" width="170" height="400"/>
+<img src="https://github.com/user-attachments/assets/f5d3a182-1d95-471a-a336-daa658fe23aa" width="170" height="400"/>
+<img src="https://github.com/user-attachments/assets/a54a29d1-96a7-4890-998c-3c8e731de4f4" width="170" height="400"/>
+</p>
 
 </br>
 
