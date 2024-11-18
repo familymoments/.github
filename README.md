@@ -50,7 +50,7 @@
 </br>
 
 ## ⚙️ 서비스 아키텍처
-![Service Architecture](https://github.com/user-attachments/assets/addfe065-e9e1-4d12-af9f-0f895fde5924)
+![Service Architecture](https://github.com/user-attachments/assets/6c942e91-3a1b-4609-9942-08d8b891b288)
 
 </br>
 
